@@ -1,0 +1,16 @@
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\nunit.engine.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\nunit.engine.api.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\Mono.Cecil.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\Tests.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\Tests.pdb
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\nunit.framework.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\UnitTtTrain.exe
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\UnitTtTrain.pdb
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\UnitTtTrain.exe.config
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\nunit.framework.pdb
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\bin\Debug\nunit.framework.xml
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\obj\Debug\Tests.dll
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\Tests\obj\Debug\Tests.pdb

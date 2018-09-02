@@ -1,0 +1,6 @@
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\bin\Debug\UnitTtTrain.exe.config
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\bin\Debug\UnitTtTrain.exe
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\bin\Debug\UnitTtTrain.pdb
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\obj\Debug\UnitTtTrain.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\obj\Debug\UnitTtTrain.exe
+c:\users\влад\documents\visual studio 2017\Projects\UnitTtTrain\UnitTtTrain\obj\Debug\UnitTtTrain.pdb
